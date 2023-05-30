@@ -28,4 +28,11 @@ phase:
 the data.
 - We used Python libraries for both the analysis and visualizations
 
+### Model Building Phase: 
+We build a model that will predict salaries for data science positions.
+The algorithms used are: 
+- Random Forest
+- Linear Regression
+- Laso Regression 
+
 
