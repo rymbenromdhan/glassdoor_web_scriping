@@ -11,7 +11,7 @@ Throughout this project, we will scrap glassdoor  and extract data realted to da
 4. Explanatory data analysis phase
 5. Model buiding phase
 
-### Data Cleaning phase: 
+### Data Cleaning Phase:
 After scraping the data, we cleaned it to receive our file file. Thoughout this phase we: 
  - Determined and Parsed numercial data out of the salary.
  - Removed empty data
@@ -19,5 +19,13 @@ After scraping the data, we cleaned it to receive our file file. Thoughout this 
  - Made a column that described the different positions based on the skills needed ( R, Python .. )
  - Simplified job titles
  - Splited the data based on postion ( Junior / Senior ) 
+
+### Data Analysis Phase:
+These are the steps that we followed in order to perform a successful data analysis
+phase:
+- We became more familiar with the descriptive statistics to analyze the data.
+- We used visualizations like histograms and scatter plots the better understand
+the data.
+- We used Python libraries for both the analysis and visualizations
 
 
